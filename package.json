@@ -1,0 +1,27 @@
+{
+  "name": "minesweepergame",
+  "version": "1.0.0",
+  "description": "minesweepergame",
+  "main": "board.js",
+  "scripts": {
+    "test": "teset",
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrapperCopter/minesweeper-p2.git"
+  },
+  "author": "Stephen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TrapperCopter/minesweeper-p2/issues"
+  },
+  "homepage": "https://github.com/TrapperCopter/minesweeper-p2#readme",
+  "keywords": [
+    "minesweeper",
+    "game"
+  ],
+  "dependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}
